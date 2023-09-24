@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>DevOps Final Project</title>
+    <title>DevOps Final Project!</title>
 </head>
 <body>
     <h1>DevOps Final Project</h1>
